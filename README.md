@@ -16,11 +16,11 @@ Você precisará construir uma classe chamada "Estacionamento".
 
 A classe contém três variáveis, sendo:
 
-### precoInicial: Tipo decimal. É o preço cobrado para deixar seu veículo estacionado.
+precoInicial: Tipo decimal. É o preço cobrado para deixar seu veículo estacionado.
 
-### precoPorHora: Tipo decimal. É o preço por hora que o veículo permanecer estacionado.
+precoPorHora: Tipo decimal. É o preço por hora que o veículo permanecer estacionado.
 
-### veiculos: É uma lista de string, representando uma coleção de veículos estacionados. Contém apenas a placa do veículo.
+<strong>veiculos</strong>: É uma lista de string, representando uma coleção de veículos estacionados. Contém apenas a placa do veículo.
 
 A classe contém três métodos, sendo:
 
